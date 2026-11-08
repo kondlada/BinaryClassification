@@ -5,8 +5,8 @@
 **Dataset:** Breast Cancer Wisconsin (Diagnostic), UCI Machine Learning Repository
 
 > **Add your real links after publishing:**  
-> GitHub repository: **[PASTE YOUR GITHUB REPOSITORY URL HERE]**  
-> Live Streamlit app: **[PASTE YOUR DEPLOYED STREAMLIT URL HERE]**
+> GitHub repository: **[https://github.com/kondlada/BinaryClassification]**  
+> Live Streamlit app: **[https://kondlada-2026ak05543.streamlit.app/]**
 
 ## A. Problem statement
 
@@ -37,7 +37,7 @@ This is an educational machine-learning demonstration, **not** a medical or clin
 
 ## C. GitHub repository link
 
-**GitHub repository URL:** [PASTE YOUR REAL GITHUB REPOSITORY URL HERE]
+**GitHub repository URL:** [https://github.com/kondlada/BinaryClassification]
 
 The repository includes the full Streamlit code, model-training source code, all five saved trained pipelines (`.joblib`), requirements, README, and held-out test CSV. An optional notebook is provided for running and documenting the work on BITS Virtual Lab.
 
