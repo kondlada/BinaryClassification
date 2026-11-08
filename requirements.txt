@@ -1,0 +1,7 @@
+# Keep the scikit-learn version consistent with the saved joblib pipelines.
+streamlit>=1.45,<2.0
+scikit-learn==1.8.0
+numpy>=2.2,<2.4
+pandas>=2.2,<3.0
+matplotlib>=3.9,<3.11
+joblib>=1.5,<2.0
